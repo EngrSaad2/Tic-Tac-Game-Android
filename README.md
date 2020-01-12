@@ -1,4 +1,4 @@
-# Tic-Toc-Game-Android (3D)
+# Tic-Tac-Game-Android (3D)
 ### Contact
 Developer: <b>SAAD</b> <br>
 Email: saad@triangeltech.com<br>
